@@ -24,7 +24,7 @@
   <a href="https://github.com/Grrabbi" target="_blank">
     <img src="https://img.shields.io/github/followers/Grrabbi?label=Follow&style=social" />
   </a>
-  <a href="https://www.linkedin.com/in/golam-rabbi-1388a1179/" target="_blank">
+  <a href="https://www.linkedin.com/in/grrabbi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="https://facebook.com/grrabbi.990" target="_blank">
