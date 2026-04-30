@@ -1,73 +1,102 @@
-
-[![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)](https://github.com/grrabbi)
-
-<h1 align="center">Hi 👋, I'm Golam Rabbi</h1>
-<h3 align="center">Frontend Web Developer | HTML, CSS, JavaScript, Bootstrap, Tailwind, PHP</h3>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-
-
-- 🔭 I’m currently working on: **Responsive website design projects using HTML, CSS, JS, PHP.**  
-- 🌱 I’m currently learning: **Advanced JavaScript & modern web trends.**  
-- 👯 I’m looking to collaborate on: **Any frontend-focused or PHP-based website project.**  
-- 💬 Ask me about: **HTML, CSS, JS, Bootstrap, Tailwind CSS, PHP.**  
-- 📫 How to reach me: **rabbishah966@gmail.com**  
-- ⚡ Fun fact: **I love creating web experiences that look great and work fast!**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/Grrabbi" target="_blank">
-    <img src="https://img.shields.io/github/followers/Grrabbi?label=Follow&style=social" />
-  </a>
-  <a href="https://www.linkedin.com/in/grrabbi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="https://facebook.com/grrabbi.990" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/grrabbi5" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://x.com/GOLAMRA72446703" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Web Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  
-  <!-- Frameworks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
-  
-  <!-- CMS / Platforms -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
-  
-  <!-- Design Tools -->
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/>
-  
-  <!-- Extra Tools -->
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/github.png" alt="github" width="40" height="40"/>
-</p>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Grrabbi&show_icons=true&theme=tokyonight&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grrabbi&layout=compact&theme=tokyonight" height="150" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Golam%20Rabbi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20Developer%20%7C%20WordPress%20%7C%20PHP&descAlignY=58&descSize=18" />
+
+# Hi 👋, I'm Golam Rabbi
+
+### Frontend Web Developer focused on clean UI, responsive websites, and fast web experiences.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=HTML+%7C+CSS+%7C+JavaScript+Developer;Bootstrap+%7C+Tailwind+%7C+PHP;WordPress+Theme+%26+Plugin+Development;Building+Modern+Responsive+Websites" />
+
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Grrabbi&theme=tokyonight" />
-</p>
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **responsive website design projects**
+- 🌱 Learning **Advanced JavaScript and modern frontend trends**
+- 💼 Skilled in **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, PHP, WordPress**
+- 👯 Open to collaborate on **frontend, WordPress, and PHP-based projects**
+- 💬 Ask me about **Frontend Development, WordPress, PHP**
+- 📫 Reach me at **rabbishah966@gmail.com**
+- ⚡ Fun fact: I love building websites that look good and load fast.
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+
+### Backend & CMS
+<img src="https://skillicons.dev/icons?i=php,wordpress,mysql" />
+
+### Tools & Design
+<img src="https://skillicons.dev/icons?i=vscode,github,figma,ps,ai" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Grrabbi">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/grrabbi/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://facebook.com/grrabbi.990">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://instagram.com/grrabbi5">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://x.com/GOLAMRA72446703">
+  <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Grrabbi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grrabbi&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Grrabbi&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Grrabbi&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+## ✨ Current Focus
+
+```txt
+Frontend Development
+Responsive UI Design
+WordPress Customization
+PHP-based Website Projects
+JavaScript Improvement
